@@ -13,7 +13,7 @@
       "transmission"
       "zen-browser"
       "homerow"
-      "keyclu"
+      "showmeyourhotkeys"
     ];
     brews = [
       "detox"
