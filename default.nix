@@ -12,6 +12,7 @@
       "spotify"
       "transmission"
       "zen-browser"
+      "homerow"
     ];
     brews = [
       "detox"
