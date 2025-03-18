@@ -8,6 +8,7 @@
       "betterdisplay"
       "cursorcerer"
       "homerow"
+      "jordanbaird-ice"
       "karabiner-elements"
       "showmeyourhotkeys"
       "spotify"
