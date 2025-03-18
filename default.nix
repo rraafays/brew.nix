@@ -7,13 +7,12 @@
     casks = [
       "betterdisplay"
       "cursorcerer"
-      "firefox"
+      "homerow"
       "karabiner-elements"
+      "showmeyourhotkeys"
       "spotify"
       "transmission"
       "zen-browser"
-      "homerow"
-      "showmeyourhotkeys"
     ];
     brews = [
       "detox"
