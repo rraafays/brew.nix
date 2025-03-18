@@ -18,4 +18,14 @@
       "detox"
     ];
   };
+
+  launchd.daemons.showMeYourHotkeys = {
+    script = ''
+      	open -ga showmeyourhotkeys
+    '';
+    serviceConfig = {
+      KeepAlive = true;
+      RunAtLoad = true;
+    };
+  };
 }
