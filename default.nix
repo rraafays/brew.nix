@@ -9,7 +9,7 @@
       "cursorcerer"
       "homerow"
       "karabiner-elements"
-      "showmeyourhotkeys"
+      "keyclu"
       "spotify"
       "transmission"
       "zen-browser"
@@ -17,15 +17,5 @@
     brews = [
       "detox"
     ];
-  };
-
-  launchd.daemons.showMeYourHotkeys = {
-    script = ''
-      	open -ga showmeyourhotkeys
-    '';
-    serviceConfig = {
-      KeepAlive = true;
-      RunAtLoad = true;
-    };
   };
 }
