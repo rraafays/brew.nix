@@ -9,7 +9,7 @@
       "cursorcerer"
       "homerow"
       "karabiner-elements"
-      "keyclu"
+      "showmeyourhotkeys"
       "spotify"
       "transmission"
       "zen-browser"
