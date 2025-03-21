@@ -19,4 +19,14 @@
       "detox"
     ];
   };
+
+  launchd.daemons = {
+    showmeyourhotkeys = {
+      script = "open -jga ShowMeYourHotKeys";
+      serviceConfig = {
+        KeepAlive = true;
+        RunAtLoad = true;
+      };
+    };
+  };
 }
