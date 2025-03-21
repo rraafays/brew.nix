@@ -14,6 +14,7 @@
       "spotify"
       "transmission"
       "zen-browser"
+      "microsoft-office"
     ];
     brews = [
       "detox"
