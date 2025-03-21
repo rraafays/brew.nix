@@ -23,9 +23,9 @@
 
   launchd.daemons = {
     showmeyourhotkeys = {
-      script = "open -jga ShowMeYourHotKeys";
+      script = "open -a ShowMeYourHotKeys";
       serviceConfig = {
-        KeepAlive = true;
+        KeepAlive = false;
         RunAtLoad = true;
       };
     };
