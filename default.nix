@@ -11,6 +11,7 @@
       "jordanbaird-ice"
       "karabiner-elements"
       "microsoft-office"
+      "qobuz-downloader"
       "showmeyourhotkeys"
       "soulseek"
       "spotify"
