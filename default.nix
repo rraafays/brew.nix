@@ -10,11 +10,12 @@
       "homerow"
       "jordanbaird-ice"
       "karabiner-elements"
+      "microsoft-office"
       "showmeyourhotkeys"
+      "soulseek"
       "spotify"
       "transmission"
       "zen-browser"
-      "microsoft-office"
     ];
     brews = [
       "detox"
