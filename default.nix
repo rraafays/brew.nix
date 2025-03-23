@@ -10,6 +10,7 @@
       "homerow"
       "jordanbaird-ice"
       "karabiner-elements"
+      "macdroid"
       "microsoft-office"
       "qobuz-downloader"
       "showmeyourhotkeys"
