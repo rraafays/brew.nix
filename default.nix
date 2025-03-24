@@ -17,6 +17,7 @@
       "soulseek"
       "spotify"
       "transmission"
+      "whatsapp"
       "zen-browser"
     ];
     brews = [
