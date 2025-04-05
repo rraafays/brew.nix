@@ -7,6 +7,7 @@
     casks = [
       "betterdisplay"
       "cursorcerer"
+      "docker"
       "homerow"
       "jordanbaird-ice"
       "karabiner-elements"
