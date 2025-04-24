@@ -5,6 +5,7 @@
     enable = true;
     onActivation.upgrade = true;
     casks = [
+      "android-studio"
       "betterdisplay"
       "cursorcerer"
       "docker"
