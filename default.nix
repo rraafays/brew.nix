@@ -20,7 +20,7 @@
       "spotify"
       "transmission"
       "whatsapp"
-      "zen-browser"
+      "zen"
     ];
     brews = [
       "detox"
