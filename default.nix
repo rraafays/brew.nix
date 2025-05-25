@@ -30,14 +30,14 @@
     showmeyourhotkeys = {
       script = "open -ga ShowMeYourHotKeys";
       serviceConfig = {
-        KeepAlive = true;
+        KeepAlive = false;
         RunAtLoad = true;
       };
     };
     ice = {
       script = "open -ga Ice";
       serviceConfig = {
-        KeepAlive = true;
+        KeepAlive = false;
         RunAtLoad = true;
       };
     };
