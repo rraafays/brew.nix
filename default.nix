@@ -34,5 +34,12 @@
         RunAtLoad = true;
       };
     };
+    ice = {
+      script = "open -a Ice";
+      serviceConfig = {
+        KeepAlive = false;
+        RunAtLoad = true;
+      };
+    };
   };
 }
