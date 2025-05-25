@@ -28,16 +28,16 @@
 
   launchd.daemons = {
     showmeyourhotkeys = {
-      script = "open -a ShowMeYourHotKeys";
+      script = "open -ga ShowMeYourHotKeys";
       serviceConfig = {
-        KeepAlive = false;
+        KeepAlive = true;
         RunAtLoad = true;
       };
     };
     ice = {
-      script = "open -a Ice";
+      script = "open -ga Ice";
       serviceConfig = {
-        KeepAlive = false;
+        KeepAlive = true;
         RunAtLoad = true;
       };
     };
