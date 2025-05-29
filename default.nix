@@ -5,6 +5,7 @@
     enable = true;
     onActivation.upgrade = true;
     casks = [
+      "android-file-transfer"
       "betterdisplay"
       "cursorcerer"
       "docker"
