@@ -8,7 +8,6 @@
       "android-file-transfer"
       "betterdisplay"
       "cursorcerer"
-      "docker"
       "google-chrome"
       "homerow"
       "jordanbaird-ice"
@@ -38,6 +37,13 @@
     };
     ice = {
       script = "open -ga Ice";
+      serviceConfig = {
+        KeepAlive = false;
+        RunAtLoad = true;
+      };
+    };
+    betterdisplay = {
+      script = "open -ga BetterDisplay";
       serviceConfig = {
         KeepAlive = false;
         RunAtLoad = true;
