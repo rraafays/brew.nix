@@ -8,6 +8,7 @@
       "android-file-transfer"
       "betterdisplay"
       "cursorcerer"
+      "darktable"
       "google-chrome"
       "homerow"
       "jordanbaird-ice"
