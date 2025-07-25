@@ -14,6 +14,7 @@
       "jordanbaird-ice"
       "karabiner-elements"
       "kid3"
+      "makemkv"
       "microsoft-office"
       "musicbrainz-picard"
       "playcover-community"
