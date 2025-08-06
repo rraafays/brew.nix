@@ -9,7 +9,7 @@
       "cursorcerer"
       "google-chrome"
       "homerow"
-      "iina"
+      "optimus-player"
       "jordanbaird-ice"
       "karabiner-elements"
       "showmeyourhotkeys"
