@@ -9,6 +9,7 @@
       "cursorcerer"
       "google-chrome"
       "homerow"
+      "iina"
       "jordanbaird-ice"
       "karabiner-elements"
       "showmeyourhotkeys"
