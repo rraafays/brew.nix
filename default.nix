@@ -5,25 +5,13 @@
     enable = true;
     onActivation.upgrade = true;
     casks = [
-      "android-file-transfer"
       "betterdisplay"
       "cursorcerer"
-      "darktable"
       "google-chrome"
       "homerow"
       "jordanbaird-ice"
       "karabiner-elements"
-      "kid3"
-      "makemkv"
-      "microsoft-office"
-      "musicbrainz-picard"
-      "playcover-community"
-      "qobuz-downloader"
       "showmeyourhotkeys"
-      "soulseek"
-      "spotify"
-      "transmission"
-      "whatsapp"
       "zen"
     ];
     brews = [
