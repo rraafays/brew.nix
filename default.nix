@@ -9,9 +9,9 @@
       "cursorcerer"
       "google-chrome"
       "homerow"
-      "optimus-player"
       "jordanbaird-ice"
       "karabiner-elements"
+      "movist-pro"
       "showmeyourhotkeys"
       "zen"
     ];
