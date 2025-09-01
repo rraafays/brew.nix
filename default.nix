@@ -12,7 +12,6 @@
     casks = [
       "betterdisplay"
       "cursorcerer"
-      "google-chrome"
       "homerow"
       "jordanbaird-ice"
       "karabiner-elements"

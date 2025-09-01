@@ -6,10 +6,6 @@
       #!${stdenv.shell}
       open -a "BetterDisplay" "$@"
     '')
-    (writeShellScriptBin "google-chrome" ''
-      #!${stdenv.shell}
-      open -a "Google Chrome" "$@"
-    '')
     (writeShellScriptBin "homerow" ''
       #!${stdenv.shell}
       open -a "Homerow" "$@"
