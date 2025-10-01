@@ -11,6 +11,7 @@
     onActivation.upgrade = true;
     casks = [
       "betterdisplay"
+      "cog-app"
       "cursorcerer"
       "homerow"
       "jordanbaird-ice"
