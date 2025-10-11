@@ -18,6 +18,7 @@
       "karabiner-elements"
       "movist-pro"
       "showmeyourhotkeys"
+      "wine-stable"
       "zen"
     ];
     brews = [
